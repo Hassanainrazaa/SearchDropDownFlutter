@@ -1,10 +1,16 @@
 # untitled
 
-A new Flutter project.
+A new Flutter project of DropDown SearchBar.
 
-## Getting Started
+Here is the preview
 
-This project is a starting point for a Flutter application.
+
+![Screenshot_2022-10-06-13-22-50-802_com example untitled](https://user-images.githubusercontent.com/84363839/194261163-2cb48570-dc4f-4121-adb7-535381cf960e.jpg)
+
+2
+
+[Screenshot_2022-10-06-13-22-58-043_com example untitled](https://user-images.githubusercontent.com/84363839/194261220-1e03656b-dde4-4115-bdf3-3797a4c93172.jpg)
+ect is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
